@@ -1,0 +1,15 @@
+# 逐像素 Willert 三维速度场 · 桌面可视化 依赖
+#
+# torch / torchvision 请根据本机 CUDA 版本单独安装（不要用本文件的裸 torch），
+# 例：CUDA 12.1 ->  pip install torch torchvision --index-url https://download.pytorch.org/whl/cu121
+#     CUDA 11.8 ->  pip install torch torchvision --index-url https://download.pytorch.org/whl/cu118
+
+torch
+torchvision
+numpy
+scipy
+opencv-python
+Pillow
+matplotlib
+opt_einsum
+PySide6
