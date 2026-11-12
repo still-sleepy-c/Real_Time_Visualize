@@ -6,8 +6,8 @@ __pycache__/
 venv/
 .venv/
 
-*.pth
-*.npz
+
+
 *.png
 *.jpg
 logs/
