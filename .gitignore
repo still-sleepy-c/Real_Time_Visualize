@@ -14,5 +14,4 @@ logs/
 output/
 
 .vscode/
-calib/
-weights/
+
